@@ -1,2 +1,1 @@
-# My Own Site
-My Own Site is (tbc)
+Site to talk about me & practice HTML
